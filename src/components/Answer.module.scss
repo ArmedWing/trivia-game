@@ -4,6 +4,10 @@
     background-color: #AEABAB;
     color: #FFFFFF;
     font-weight: 700;
-    border: 1px solid #454ECF;
+    border: 2px solid #AEABAB;
     border-radius: 15px;
+
+    &:hover {
+        border: 2px solid #6767D6;
+    }
 }
